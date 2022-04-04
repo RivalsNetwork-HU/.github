@@ -1,6 +1,6 @@
 # RivalsNetwork
 
-Development diary of a Hungarian minecraft server
+A team of Minecraft server developers who want to improve the gaming experience with unique reimagined ideas. 
 
 ## Head Developers
 - [@SilkyFalcon](https://github.com/SilkyFalcon)  
